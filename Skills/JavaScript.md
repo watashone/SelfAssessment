@@ -1,9 +1,9 @@
 ## JavaScript
 
 - Language
-  - Object
-  - this
-  - arrow function
+  - Object 👂 heard
+  - this 👂 heard
+  - arrow function 👂 heard
   - async function
   - call
   - bind
@@ -34,45 +34,45 @@
   - yield
   - await
   - template literal
-  - strict mode
+  - strict mode 👂 heard
   - delete
   - in
   - super
   - Symbol
   - Reflect
 - Statements
-  - if
-  - while
+  - if 👂 heard
+  - while 👂 heard
   - do..while
-  - for
+  - for 👂 heard
   - for..in
   - for..of
   - for await
   - throw
-  - break
-  - continue
+  - break 👂 heard
+  - continue 👂 heard
   - import
   - export
   - label
   - try..catch
-  - switch
+  - switch 👂 heard
   - class
   - new Error
   - with
 - Functions
-  - function declaration
-  - function expression
-  - return
+  - function declaration 👂 heard
+  - function expression 👂 heard
+  - return 👂 heard
   - default parameters
   - functional object
 - Data structures
-  - Array
+  - Array 👂 heard
   - mixin
-  - extend
+  - extend 
   - typed arrays
   - Map
   - Set
-  - undefined
+  - undefined 👂 heard
   - null
   - Proxy
   - weak collections
@@ -83,7 +83,7 @@
   - BigInt
 - Infrastructure
   - V8
-  - Node.js
+  - Node.js 👂 heard
   - npm
   - prettier
   - MDN
