@@ -1,89 +1,89 @@
 ## JavaScript
 
 - Language
-  - Object 👂 heard
-  - this 👂 heard
-  - arrow function 👂 heard
-  - async function
+  - Object 🖐️ used
+  - this 🖐️ used
+  - arrow function 🖐️ used
+  - async function 🖐️ used
   - call
   - bind
   - apply
-  - instanceof
+  - instanceof 🖐️ used
   - ...spread
   - ...rest
-  - typeof
-  - destructuring
-  - generator
-  - iterator
-  - async generator
+  - typeof 🖐️ used
+  - destructuring 🖐️ used
+  - generator 🖐️ used
+  - iterator 🖐️ used
+  - async generator 
   - async iterator
-  - chaining
-  - optional chaining
+  - chaining 🖐️ used
+  - optional chaining 🖐️ used
   - IIFE
-  - global
+  - global 🖐️ used
   - globalThis
   - window
-  - getters and setters
+  - getters and setters 🖐️ used
   - __proto__
   - prototype
   - equality operators
-  - logical operators
-  - bitwise operators
-  - ternary operator
+  - logical operators 🖐️ used
+  - bitwise operators 🖐️ used
+  - ternary operator 🖐️ used
   - void
   - yield
-  - await
+  - await 🖐️ used
   - template literal
-  - strict mode 👂 heard
-  - delete
-  - in
-  - super
-  - Symbol
+  - strict mode  🖐️ used
+  - delete 🖐️ used
+  - in 🖐️ used
+  - super 🖐️ used
+  - Symbol 🖐️ used
   - Reflect
 - Statements
-  - if 👂 heard
-  - while 👂 heard
-  - do..while
-  - for 👂 heard
-  - for..in
-  - for..of
+  - if  🖐️ used
+  - while  🖐️ used
+  - do..while 🖐️ used
+  - for 🖐️ used
+  - for..in 🖐️ used
+  - for..of 🖐️ used
   - for await
-  - throw
-  - break 👂 heard
-  - continue 👂 heard
-  - import
-  - export
-  - label
-  - try..catch
-  - switch 👂 heard
-  - class
-  - new Error
-  - with
+  - throw 🖐️ used
+  - break 🖐️ used
+  - continue 🖐️ used
+  - import 🖐️ used
+  - export 🖐️ used
+  - label 👂 heard
+  - try..catch 🖐️ used
+  - switch 🖐️ used
+  - class 🖐️ used
+  - new Error 🖐️ used
+  - with 🎓 known
 - Functions
-  - function declaration 👂 heard
-  - function expression 👂 heard
-  - return 👂 heard
-  - default parameters
-  - functional object
+  - function declaration 🖐️ used
+  - function expression 🖐️ used
+  - return 🖐️ used
+  - default parameters 🖐️ used
+  - functional object 🖐️ used
 - Data structures
-  - Array 👂 heard
-  - mixin
-  - extend 
-  - typed arrays
-  - Map
-  - Set
-  - undefined 👂 heard
-  - null
+  - Array 🖐️ used
+  - mixin 🖐️ used
+  - extend  🖐️ used
+  - typed arrays 🖐️ used
+  - Map 🖐️ used
+  - Set 🖐️ used
+  - undefined 🖐️ used
+  - null 🖐️ used
   - Proxy
-  - weak collections
-  - timers
+  - weak collections 👂 heard
+  - timers 👂 heard
   - EventEmitter
   - RegExp
   - Date
   - BigInt
 - Infrastructure
-  - V8
+  - V8 👂 heard
   - Node.js 👂 heard
-  - npm
-  - prettier
-  - MDN
+  - npm 👂 heard
+  - prettier 👂 heard
+  - MDN 👂 heard
