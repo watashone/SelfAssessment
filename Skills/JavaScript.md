@@ -15,7 +15,7 @@
   - destructuring 🖐️ used
   - generator 🖐️ used
   - iterator 🖐️ used
-  - async generator
+  - async generator 
   - async iterator
   - chaining 🖐️ used
   - optional chaining 🖐️ used
@@ -36,7 +36,7 @@
   - template literal
   - strict mode  🖐️ used
   - delete 🖐️ used
-  - in
+  - in 🖐️ used
   - super 🖐️ used
   - Symbol 🖐️ used
   - Reflect
@@ -51,8 +51,8 @@
   - throw 🖐️ used
   - break 🖐️ used
   - continue 🖐️ used
-  - import
-  - export
+  - import 🖐️ used
+  - export 🖐️ used
   - label 👂 heard
   - try..catch 🖐️ used
   - switch 🖐️ used

@@ -28,7 +28,7 @@
   - interface 🖐️ used
   - contract
   - module
-  - call stack
+  - call stack 🖐️ used
 - Functions
   - signature 🖐️ used
   - argument 🖐️ used
@@ -90,13 +90,13 @@
   - paradigm 👂 heard
   - algorithm 👂 heard
   - magic numbers 🖐️ used
-  - hardcode
+  - hardcode 🖐️ used
   - complexity
   - decomposition
   - spaghetti
   - silver bullet
   - not invented here
-  - dead code
+  - dead code 🖐️ used
   - unreachable code 👂 heard
   - duplicate code 👂 heard
   - exception 👂 heard
